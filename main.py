@@ -1,6 +1,6 @@
 print("please choose option for to use calculator\n for add press 1\n for subtract press 2\n for multiply  press 3\n for divide press 4")
 
-in_put = int(input()) # this function take input with user in int = integer
+in_put = int(input()) # this function take input with user in int = integer.
 int1 = int(input())
 int2 = int(input())
 if in_put == 1:
